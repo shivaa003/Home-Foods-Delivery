@@ -64,9 +64,6 @@
 
 ---
 
-## 🚀 Setup Instructions
+## 🚀 Source Code
+- For Source Code contact: [Shiva](https://shiva003.vercel.app/)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/home-foods.git
-   cd home-foods
