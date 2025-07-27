@@ -52,15 +52,6 @@
 ### 📦 Orders Management
 ![Orders](./assets/Screenshot%202025-07-27%20100120.png)
 
----
-
-## 💡 Technologies Used
-
-- **Frontend**: HTML, CSS, JavaScript (React/Next.js suggested)
-- **Backend**: Node.js / Express (or similar)
-- **Database**: MongoDB / Firebase / SQL (based on your implementation)
-- **Styling**: Tailwind CSS / Bootstrap
-- **Other**: Local Storage or API Integration for cart and orders
 
 ---
 
