@@ -50,7 +50,7 @@
 ![Manage Menu](./assets/manage%20menu.png)
 
 ### 📦 Orders Management
-![Orders](./assets/Screenshot%202025-07-27%20100120.png)
+![Orders](./assets/orders.png)
 
 
 ---
